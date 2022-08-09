@@ -1,3 +1,5 @@
+This is my School Project and you can see more of my school project on my school github : https://github.com/kedaranugerahnachaputra
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
